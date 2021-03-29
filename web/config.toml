@@ -1,0 +1,16 @@
+baseURL = "https://jerrys_pool.github.io"
+languageCode = "en-us"
+title = "Jerry's Pool | Forever 0%"
+theme = "minimalism"
+disableHugoGeneratorInject = true
+enableRobotsTXT = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Updates"
+    url = "/updates/"
+    weight = 2

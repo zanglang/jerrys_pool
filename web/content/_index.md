@@ -12,8 +12,11 @@ Server Locations:
 
 * Hong Kong
 * Singapore (hot spare)
+* Taipei (cold spare)
 
 ## Links
+
+* [System stats](/stats/)
 
 * Get updates on [Telegram](https://t.me/jerryspool)
 

@@ -2,3 +2,7 @@
 **/public/
 **/resources/_gen/
 **/hugo_stats.json
+
+### Scripts ###
+scripts/env.sh
+scripts/*.png

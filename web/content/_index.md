@@ -16,9 +16,9 @@ Server Locations:
 
 ## Links
 
-* [System stats](/stats/)
+* [Server statistics](/stats/)
 
-* Get updates on [Telegram](https://t.me/jerryspool)
+* Telegram: [Annoucements](https://t.me/jerryspool) and [Public Chat](https://t.me/jerrys_poolside)
 
 * View project on [Trello](https://trello.com/b/4VodUm8P)
 

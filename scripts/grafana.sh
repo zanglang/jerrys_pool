@@ -1,4 +1,5 @@
 #!/bin/bash
+set -x
 
 DIR=$(dirname "$0")
 source ${DIR}/env.sh
@@ -22,4 +23,4 @@ generate "UJyurCTWz/chain-dashboard?panelId=81" "load.png"
 #generate "UJyurCTWz/chain-dashboard?panelid=85" "memory.png"
 
 s3cmd put -M -r *.png "s3://jerrys-pool/"
-
+echo "Done."

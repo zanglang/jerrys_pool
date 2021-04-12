@@ -6,3 +6,4 @@
 ### Scripts ###
 scripts/env.sh
 scripts/*.png
+**/*.log

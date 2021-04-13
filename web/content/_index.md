@@ -10,21 +10,23 @@ Operator Address: `crocncl1s7cu28403gzdvy5tttyskm3zxjejxcv6j5ngp9`
 
 Server Locations:
 
-* Hong Kong
+* Japan
 * Singapore (hot spare)
 * Taipei (cold spare)
 
 ## Links
 
-* [Server statistics](/stats/)
+* [Frequently Asked Questions](/faq/)
+
+* [Server Statistics](/stats/)
 
 * Telegram: [Annoucements](https://t.me/jerryspool) and [Public Chat](https://t.me/jerrys_poolside)
 
-* View project on [Trello](https://trello.com/b/4VodUm8P)
+* Project Tracker on [Trello](https://trello.com/b/4VodUm8P)
 
-* Outage reports on [Statuspage](https://jerrys-pool.statuspage.io/)
+* Outage Reports on [Statuspage](https://jerrys-pool.statuspage.io/)
 
-* Contact me on [Twitter](https://twitter.com/zanglang) / [Email](mailto:jerry@libcoffee.net)
+* Follow on [Twitter](https://twitter.com/zanglang) / [Email](mailto:jerry@libcoffee.net)
 
 * [Tips on choosing your staking node](https://www.reddit.com/r/Crypto_com/comments/mdgda8/tip_choose_your_staking_node_wisely/)
 

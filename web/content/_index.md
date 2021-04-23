@@ -10,9 +10,11 @@ Operator Address: `crocncl1s7cu28403gzdvy5tttyskm3zxjejxcv6j5ngp9`
 
 Server Locations:
 
-* Japan
+* Virginia, US
 * Singapore (hot spare)
 * Taipei (cold spare)
+
+[System Specs](/#) (TBA)
 
 ## Links
 
@@ -34,7 +36,7 @@ Server Locations:
 
 Some projects I am working on:
 
-* _CRO Yield Optimizer_ (**Beta soon**)
+* _CRO Yield Optimizer_
 
   Automatically claims and reinvests staked CRO to predefined validator addresss.
 

@@ -16,7 +16,7 @@ generate() {
 cd "${DIR}"
 #generate "_vb4ur_gz/nodes?panelid=2" "cpu.png"
 #generate "_vb4ur_gz/nodes?panelid=7" "disk.png"
-generate "UJyurCTWz/chain-dashboard?panelId=75" "votingpower.png"
+generate "UJyurCTWz/chain-dashboard?panelId=72" "votingpower.png"
 generate "UJyurCTWz/chain-dashboard?panelId=76" "missedsigns.png"
 generate "UJyurCTWz/chain-dashboard?panelId=77" "signeddelay.png"
 generate "UJyurCTWz/chain-dashboard?panelId=81" "load.png"

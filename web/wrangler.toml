@@ -1,0 +1,9 @@
+name = "jerrys_pool"
+type = 'webpack'
+account_id = 'b457a29d1ee5571a6a037f3071d6bc9a'
+route = 'pool.jerrychong.com/*'
+zone_id = '8511d4644e7b9fc2a97c44bf7c5f63de'
+usage_model = ''
+workers_dev = true
+target_type = "webpack"
+site = {bucket = "./public",entry-point = "workers-site"}

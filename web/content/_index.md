@@ -10,8 +10,7 @@ Operator Address: `crocncl1s7cu28403gzdvy5tttyskm3zxjejxcv6j5ngp9`
 
 Server Locations:
 
-* Virginia, US
-* Singapore (hot spare)
+* Singapore
 * Taipei (cold spare)
 
 [System Specs](/#) (TBA)
@@ -22,7 +21,7 @@ Server Locations:
 
 * [Server Statistics](/stats/)
 
-* Telegram: [Annoucements](https://t.me/jerryspool) and [Public Chat](https://t.me/jerrys_poolside)
+* Telegram: [Announcements](https://t.me/jerryspool) and [Public Chat](https://t.me/jerrys_poolside)
 
 * Project Tracker on [Trello](https://trello.com/b/4VodUm8P)
 
@@ -36,21 +35,11 @@ Server Locations:
 
 Some projects I am working on:
 
-* _CRO Yield Optimizer_
-
-  Automatically claims and reinvests staked CRO to predefined validator addresss.
-
 * [_CRO Balancer Tracker_](https://github.com/zanglang/crypto-org-delegator-exporter)
 
   Given a delegator address, collect the total delegated balance.
 
   *NOTE:* Combined with a Prometheus setup, this will easily let us graph and calculate future APY.
-
-* ~~_CRO Yield Visualizer_~~
-
-  Given a delegator address, plot the profits over time and predict future gains.
-
-  *NOTE:* Abandoned as I'm already satisfied with the balance tracker.
 
 ## Funding
 

@@ -23,7 +23,7 @@ title: "Frequently Asked Questions"
 
 * *Where are the servers hosted?*
 
-  The nodes currently run on Microsoft Azure. I may move them around different cloud providers depending on pricing and availability.
+  The nodes currently run on Microsoft Azure and Contabo. I may move them around different cloud providers depending on pricing and availability.
 
 * *How can I help?*
 

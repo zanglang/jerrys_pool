@@ -3,15 +3,15 @@ title: "Frequently Asked Questions"
 ---
 * *What is this?*
 
-  **Jerry's Pool** is a validator node on the Crypto.org Mainnet. You can stake your CRO tokens on any validator nodes, and in return collect a 20% APR of returns from the blockchain.
+  **Jerry's Pool** runs validator nodes several proof-of-stake Cosmos blockchains. You can stake your tokens on any validator nodes in return for staking rewards from the blockchain.
 
 * *Do you make any money out of this?*
 
-   Nope! The commission rate of this server is permanently set to **0%**.
+   Nope! The commission rate of my CRO validator node is permanently set to **0%**.
 
 * *How is this sustainable?*
 
-  Server fees are currently being paid by hosting provider coupons, and from revenue by my own crypto trading on the side. I also cut down costs by only provisioning cloud resources as needed to the servers.
+  Server fees are fully paid for, and is mostly offset by revenue from my own crypto investments and other partnerships. I also cut down costs by only provisioning cloud resources as needed to the servers.
 
 * *What's in it for you?*
 
@@ -23,7 +23,7 @@ title: "Frequently Asked Questions"
 
 * *Where are the servers hosted?*
 
-  The nodes currently run on Microsoft Azure and Contabo. I may move them around different cloud providers depending on pricing and availability.
+  The nodes currently run on Alibaba Cloud, Microsoft Azure and Contabo. I may move them around different cloud providers depending on pricing and availability.
 
 * *How can I help?*
 

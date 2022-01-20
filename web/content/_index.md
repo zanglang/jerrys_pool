@@ -1,19 +1,35 @@
 ---
-title: "Jerry's Pool, 0% Forever."
+title: "Jerry's Pool"
 ---
-[*Jerry's Pool*](https://crypto.org/explorer/validator/crocncl1s7cu28403gzdvy5tttyskm3zxjejxcv6j5ngp9) is a Validator Node on the Crypto.org Chain with 0% commission rate.
-I don't collect any fees, period.
+I run Validator Nodes on several Cosmos *proof-of-stake* blockhains with 0-5% commission rates:
+
+* [Crypto.org Chain](https://crypto.org/explorer/validator/crocncl1s7cu28403gzdvy5tttyskm3zxjejxcv6j5ngp9)
+
+* [Cronos](https://cronos.crypto.org/)
+
+* [Cosmos Hub](https://www.mintscan.io/cosmos/validators/cosmosvaloper1ukpah0340rx7k3x2njnavwyjv6pfpvn632df9q)
+
+* [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1ukpah0340rx7k3x2njnavwyjv6pfpvn6xjz0gx)
 
 ## Technical Details
 
-Operator Address: `crocncl1s7cu28403gzdvy5tttyskm3zxjejxcv6j5ngp9`
+Nodes are run on a mixture of cloud providers:
 
-Server Locations:
+* Alibaba Cloud
+
+* Microsoft Azure
+
+* Contabo
+
+Server locations:
 
 * Singapore
-* Taipei (cold spare)
 
-[System Specs](/#) (TBA)
+* Silicon Valley
+
+* Germany
+
+Feel free to contact me directly for more technical enquiries.
 
 ## Links
 
@@ -27,7 +43,7 @@ Server Locations:
 
 * Outage Reports on [Statuspage](https://jerrys-pool.statuspage.io/)
 
-* Follow on [Twitter](https://twitter.com/zanglang) / [Email](mailto:jerry@libcoffee.net)
+* Follow on [Twitter](https://twitter.com/zanglang) / [Reddit](https://www.reddit.com/user/zanglang/) / [Email](mailto:jerry@libcoffee.net)
 
 * [Tips on choosing your staking node](https://www.reddit.com/r/Crypto_com/comments/mdgda8/tip_choose_your_staking_node_wisely/)
 
@@ -40,6 +56,10 @@ Some projects I am working on:
   Given a delegator address, collect the total delegated balance.
 
   *NOTE:* Combined with a Prometheus setup, this will easily let us graph and calculate future APY.
+
+* Yield Optimizer
+
+  Automatically claims and restakes pending staking rewards optimally with zero risk.
 
 ## Funding
 
